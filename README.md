@@ -23,4 +23,6 @@ We give you everything you need to make a AAA quality multiplayer system, using 
 
 -DATABASE SYSTEM
 
+-(NEW) Team Deathmatch Gamemode
+
 Discord: https://discord.gg/BZJJshZ
