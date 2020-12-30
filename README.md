@@ -1,4 +1,4 @@
-# Multplayer-With-TDM
+# Multiplayer-With-TDM
 All the features of our Multiplayer With Blueprints plugin, which now also includes a TDM game mode!
 
 The easiest way to make a multiplayer game. Save years of work by building your AAA quality multiplayer and matchmaking system with Blueprints.
