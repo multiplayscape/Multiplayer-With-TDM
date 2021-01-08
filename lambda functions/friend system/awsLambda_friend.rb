@@ -202,7 +202,7 @@ def accept_friend_request(event:, context:)
                                  expression_attribute_values: {
                                      ':subId' => friend_request["to"],
                                      ':friendSubId' => friend_request['from'],
-                                     ':friendStatus' => 'request_accepted',
+                                     ':friendStatus' => 'accepted_request',
                                  },
                              })
       rescue Aws::DynamoDB::Errors::ServiceError => error
