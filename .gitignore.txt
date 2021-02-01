@@ -1,6 +1,2 @@
-###################
-# Files To Ignore #
-###################
-
 */Intermediate/*
 Intermediate/*
